@@ -1,0 +1,38 @@
+body{
+    background-color:black;
+}
+
+button{
+    width: 120px;
+    height: 100px;
+    background-color: gray;
+    border: 2px solid green;
+    border-radius: 26px;
+    color: black;
+    font-size:1.5em ;
+    margin: 30px;
+    transition: 0.2s;
+
+}
+
+
+
+
+button{
+    width: 120px;
+    height: 100px;
+    background-color: gray;
+    border: 2px solid green;
+    border-radius: 26px;
+    color: black;
+    font-size:1.5em ;
+    margin: 30px;
+    transition: 0.2s;
+
+}
+button:hover {
+    background-color: rgb(247, 10, 10);
+    border:2px solid black;
+    color: black;
+    transition: 150ms;
+}
